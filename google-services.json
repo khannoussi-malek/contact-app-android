@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23466890216",
+    "project_id": "gestion-de-contacte",
+    "storage_bucket": "gestion-de-contacte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23466890216:android:be3ba73370edcd371c8a5d",
+        "android_client_info": {
+          "package_name": "com.example.gestiondecontact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0QqK-qHGnCSgubrxo7LD7pKMr7lkQQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
